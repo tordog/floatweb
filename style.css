@@ -1,0 +1,309 @@
+/*style.css for floatyale.com*/
+
+li a:link, a:visited {
+	position: relative;
+	left: 10px;
+	color: #5F498A;
+	text-decoration: none;
+	font-family: 'Quicksand';
+	font-weight: normal;
+	text-transform: uppercase; 
+	font-size: 14px;
+	display: block;
+    width: 140px;
+    padding: 5px;
+    padding-top: 20px;
+    padding-bottom: 18px;
+    text-align: center;
+    z-index: 10;
+    font-size: 17px;
+}
+
+h1, h2, h3{
+	font-family: 'Didact Gothic';
+}
+
+a:hover {
+	background-color: rgba(255,255,255,.7);
+	color: #54D4EE;
+}
+
+ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+}
+
+li {
+    display: inline;
+    float: left;
+}
+
+a{
+	text-decoration:none;
+}
+
+#headerbar{
+	position: absolute;
+	top: 10px;
+	left: 50px;
+	width: 90%; 
+	height: 60px;
+    z-index: 1;
+    overflow: hidden;
+}
+
+#homecontent{
+	display: list-item;
+	float: left;
+	margin-left: 10%;
+	min-width: 100px;
+	max-width: 40%;
+	font-family: 'Quicksand';
+	font-weight: lighter;
+}
+
+#homecontent h1 {
+	font-size: 22px;
+	color: #2D1375;
+}
+
+#homecontent h2 {
+	font-size: 18px;
+	color: #333333;
+	display: inline-block;
+}
+#homecontent h3{
+	font-size: 18px;
+	font-family: 'Didact Gothic';
+	font-weight: lighter;
+	color: gray;
+}
+
+#homelogo {
+	float: left;
+	margin-top: 50px;
+	margin-left: 10%;
+	min-width: 100px;
+	height: auto;
+	max-width: 40%;
+}
+
+#homelogo img {
+	min-width: 100px;
+	max-width: 90%;
+	height: auto;
+}
+
+#mailchimpbox{
+	position: absolute;
+	top: 100px;
+	left: 20px;
+	width: 210px;
+	border-right: none;
+	border-color: gray;
+	border-width: 1px;
+}
+
+.fb-like{
+	margin-top: 15px;
+}
+
+#rightsidebar{
+	float: right;
+	min-width: 20%;
+	max-width: 170px;
+	height: 390px;
+	border-width: 1px;
+	border-color: gray;
+	margin-top: 50px;
+	margin-right: 100px;
+}
+
+#middlecontent{
+	position: absolute;
+	height: auto;
+	width: 90%;
+	top: 70px;
+	left: 60px;
+	/*background-color: rgba(255,255,255,.7);*/
+	border-top: solid;
+    border-width: 10px;
+   /* border-color: #951797; */
+    border-color: #333333;
+
+}
+
+#background {
+	position:absolute;
+	background-image: url('./images/binder.jpg');
+	min-height: 100%;
+	height: auto;
+	width: 100%;
+	top: -10px;
+	left: -10px;
+	overflow: auto;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.larger{
+	font-size: 20px;
+}
+
+#homecontent .alignright{
+	text-align: right;
+}
+
+#aboutcontent {
+	position: relative;
+	left: 100px;
+	width: 600px;
+	padding: 30px;
+	font-family: 'Didact Gothic';
+}
+#aboutcontent p{
+	position:relative;
+	left: 30px;
+}
+
+a .bar1{
+	padding: 10px;
+	background-color:rgba(62,163,121,.7);
+	font-size:22px;
+	min-width: 10%;
+	max-width: 400px;
+	text-align: center;
+	margin-bottom: 5px;
+	border-radius: .5em;
+	text-decoration: none;
+	color: white;
+
+
+
+}
+a .bar2{
+	padding: 10px;
+	background-color:rgba(62,163,77,.7);
+	font-size:22px;
+	min-width: 10%;
+	max-width: 400px;
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	border-radius: .5em;
+
+
+
+}
+
+a:hover .bar1 {
+	background-color: rgba(62,163,121,.5);
+	color: white;
+	padding:none;
+}
+a:hover .bar2 {
+	background-color: rgba(62,163,77,.6);
+	color: white;
+	padding:none;
+}
+
+#aboutcontent h1{
+	color: rgba(62,80,163,1);
+}
+
+#meettheteam p{
+	position: relative;
+	left: 50px;
+	width: 700px;
+	font-family: 'Didact Gothic';
+
+}
+#meettheteam{
+	position: relative;
+	left: 80px;
+}
+
+.courseinfo{
+	position:relative;
+	left: 50px;
+	color: #333333;
+
+}
+
+.coursetitle{
+	position:relative;
+	color: rgba(62,80,163,1);
+	left: 30px;
+	font-size: 18px;
+}
+
+#joinus{
+	font-family: 'Quicksand';
+	font-weight: lighter;
+	min-height: 50px;
+	min-width: 70px;
+	max-width:170px;
+	background-color: #FF8500;
+	border-radius: .5em;
+	text-align: center;
+	line-height: 50px;
+	font-size: 18px;
+	/*font-family: 'Didact Gothic';*/
+	color: white;
+	margin-bottom: 4px;
+}
+
+#joinus h2{
+	font-size: 22px;
+	color: #2D1375;
+}
+
+#joinus h3{
+	font-size: 18px;
+	font-family: 'Didact Gothic';
+	font-weight: lighter;
+	color: white;
+}
+
+#joinus:hover {
+	background-color:#FFA6A6;
+}
+
+#subscribe {
+	font-family: 'Quicksand';
+	font-weight: lighter;
+	min-height: 50px;
+	min-width: 70px;
+	max-width:170px;
+	background-color:#FFB600 ;
+	border-radius: .5em;
+	text-align: center;
+	line-height: 50px;
+	font-size: 18px;
+	/*font-family: 'Didact Gothic';
+	font-weight: lighter;*/
+	color: white;
+}
+
+#subscribe h3{
+	font-size: 18px;
+	font-family: 'Didact Gothic';
+	font-weight: lighter;
+	color: white;
+}
+
+#subscribe:hover {
+	background-color:#EED4EE;
+}
+
+#mc_embed_signup {
+	min-width: 400px;
+	width: 50%;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+}
