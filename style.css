@@ -3,7 +3,8 @@
 li a:link, a:visited {
 	position: relative;
 	left: 10px;
-	color: #5F498A;
+	color:white;
+	/*color: #5F498A;*/
 	text-decoration: none;
 	font-family: 'Quicksand';
 	font-weight: normal;
@@ -47,44 +48,62 @@ a{
 #headerbar{
 	position: absolute;
 	top: 10px;
-	left: 50px;
-	width: 90%; 
+	width: 100%; 
 	height: 60px;
     z-index: 1;
     overflow: hidden;
+    border-bottom: solid;
+    border-width: 2px;
+    border-color: #52a3e3;
+    background-color: black;
+    margin-right: 0px;
+}
+
+#headerbar_content{
+	float: right;
+
+}
+
+#headerbar_logo{
+	float:left;
+}
+
+#bottomcontent{
+	position: absolute;
+	margin-top: 550px;
+	background-color: black;
+	width: 100%;
 }
 
 #homecontent{
-	display: list-item;
-	float: left;
+	margin-top: 50px;
 	margin-left: 10%;
-	min-width: 100px;
-	max-width: 40%;
-	font-family: 'Quicksand';
-	font-weight: lighter;
+	width: 40%;
+	float:left;
 }
 
 #homecontent h1 {
+	font-family: 'Dosis', sans-serif;
 	font-size: 22px;
-	color: #2D1375;
+	color: #5251b1;
 }
 
 #homecontent h2 {
 	font-size: 18px;
-	color: #333333;
+	color: white;
 	display: inline-block;
 }
 #homecontent h3{
 	font-size: 18px;
 	font-family: 'Didact Gothic';
 	font-weight: lighter;
-	color: gray;
+	color: white;
 }
 
 #homelogo {
 	float: left;
 	margin-top: 50px;
-	margin-left: 10%;
+	margin-left: 13%;
 	min-width: 100px;
 	height: auto;
 	max-width: 40%;
@@ -110,6 +129,16 @@ a{
 	margin-top: 15px;
 }
 
+#righthash{
+	float:right;
+	height: 20px;
+	min-width: 150px;
+	max-width: 30%;
+	position: fixed;
+	margin-left: 57%;
+	z-index: 1;
+}
+
 #rightsidebar{
 	float: right;
 	min-width: 20%;
@@ -117,27 +146,23 @@ a{
 	height: 390px;
 	border-width: 1px;
 	border-color: gray;
-	margin-top: 50px;
-	margin-right: 100px;
+	margin-top: 10px;
+	margin-left: 50px;
 }
 
 #middlecontent{
 	position: absolute;
 	height: auto;
 	width: 90%;
-	top: 70px;
+	top: 110px;
 	left: 60px;
 	/*background-color: rgba(255,255,255,.7);*/
-	border-top: solid;
-    border-width: 10px;
-   /* border-color: #951797; */
-    border-color: #333333;
 
 }
 
 #background {
 	position:absolute;
-	background-image: url('./images/binder.jpg');
+	background-image: url('./images/floatschoolbw.jpg');
 	min-height: 100%;
 	height: auto;
 	width: 100%;
@@ -171,6 +196,7 @@ a{
 }
 
 a .bar1{
+	font-family: 'Dosis', sans-serif;
 	padding: 10px;
 	background-color:rgba(62,163,121,.7);
 	font-size:22px;
@@ -186,6 +212,7 @@ a .bar1{
 
 }
 a .bar2{
+	font-family: 'Dosis', sans-serif;
 	padding: 10px;
 	background-color:rgba(62,163,77,.7);
 	font-size:22px;
@@ -242,11 +269,10 @@ a:hover .bar2 {
 }
 
 #joinus{
-	font-family: 'Quicksand';
+	font-family: 'Dosis', sans-serif;
 	font-weight: lighter;
 	min-height: 50px;
-	min-width: 70px;
-	max-width:170px;
+	width: 100%;
 	background-color: #FF8500;
 	border-radius: .5em;
 	text-align: center;
@@ -274,11 +300,10 @@ a:hover .bar2 {
 }
 
 #subscribe {
-	font-family: 'Quicksand';
+	font-family: 'Dosis', sans-serif;
 	font-weight: lighter;
 	min-height: 50px;
-	min-width: 70px;
-	max-width:170px;
+	width: 100%;
 	background-color:#FFB600 ;
 	border-radius: .5em;
 	text-align: center;
@@ -291,13 +316,13 @@ a:hover .bar2 {
 
 #subscribe h3{
 	font-size: 18px;
-	font-family: 'Didact Gothic';
+	font-family: 'Dosis', sans-serif;
 	font-weight: lighter;
 	color: white;
 }
 
 #subscribe:hover {
-	background-color:#EED4EE;
+	background-color:#FFA6A6;
 }
 
 #mc_embed_signup {
@@ -306,4 +331,15 @@ a:hover .bar2 {
 	position: relative;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#footer{
+	position:relative;
+	margin-top: 70px;
+	width: 40%;
+	height: 70px;
+	background-color: gray;
+	color:white;
+	font-family: 'Dosis', sans-serif;
+	text-align: center;
 }
