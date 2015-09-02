@@ -162,7 +162,7 @@ a{
 
 #background {
 	position:absolute;
-	background-image: url('./images/floatschoolbw.jpg');
+	/*background-image: url('./images/skyline.jpg');*/
 	min-height: 100%;
 	height: auto;
 	width: 100%;
