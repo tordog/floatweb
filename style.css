@@ -3,7 +3,7 @@
 li a:link, a:visited {
 	position: relative;
 	left: 10px;
-	color:white;
+	color:black;
 	/*color: #5F498A;*/
 	text-decoration: none;
 	font-family: 'Quicksand';
@@ -21,7 +21,7 @@ li a:link, a:visited {
 }
 
 h1, h2, h3{
-	font-family: 'Didact Gothic';
+	font-family: 'Dosis', sans-serif;
 }
 
 a:hover {
@@ -55,12 +55,13 @@ a{
     border-bottom: solid;
     border-width: 2px;
     border-color: #52a3e3;
-    background-color: black;
+    background-color: white;
     margin-right: 0px;
 }
 
 #headerbar_content{
 	float: right;
+	color: black;
 
 }
 
@@ -71,7 +72,7 @@ a{
 #bottomcontent{
 	position: absolute;
 	margin-top: 550px;
-	background-color: black;
+	background-color: white;
 	width: 100%;
 }
 
@@ -90,14 +91,14 @@ a{
 
 #homecontent h2 {
 	font-size: 18px;
-	color: white;
+	color: black;
 	display: inline-block;
 }
 #homecontent h3{
 	font-size: 18px;
 	font-family: 'Didact Gothic';
 	font-weight: lighter;
-	color: white;
+	color: black;
 }
 
 #homelogo {
@@ -109,7 +110,7 @@ a{
 	max-width: 40%;
 }
 
-#homelogo img {
+#home img {
 	min-width: 100px;
 	max-width: 90%;
 	height: auto;
@@ -150,19 +151,29 @@ a{
 	margin-left: 50px;
 }
 
+#indexmidcontent{
+	position: absolute;
+	height: auto;
+	width: 90%;
+	top: 110px;
+	left: 60px;
+
+}
+
+
 #middlecontent{
 	position: absolute;
 	height: auto;
 	width: 90%;
 	top: 110px;
 	left: 60px;
-	/*background-color: rgba(255,255,255,.7);*/
+	background-color: rgba(255,255,255,.7);
 
 }
 
 #background {
 	position:absolute;
-	/*background-image: url('./images/skyline.jpg');*/
+	background-image: url('./images/geometric_cool_wallpaper.jpg');
 	min-height: 100%;
 	height: auto;
 	width: 100%;
@@ -273,13 +284,14 @@ a:hover .bar2 {
 	font-weight: lighter;
 	min-height: 50px;
 	width: 100%;
-	background-color: #FF8500;
+	/*background-color: #FF8500;*/
+	background-color: #E6E6E6;
 	border-radius: .5em;
 	text-align: center;
 	line-height: 50px;
 	font-size: 18px;
 	/*font-family: 'Didact Gothic';*/
-	color: white;
+	color: black;
 	margin-bottom: 4px;
 }
 
@@ -304,14 +316,15 @@ a:hover .bar2 {
 	font-weight: lighter;
 	min-height: 50px;
 	width: 100%;
-	background-color:#FFB600 ;
+	/*background-color:#FFB600 ;*/
+	background-color: #E6E6E6;
 	border-radius: .5em;
 	text-align: center;
 	line-height: 50px;
 	font-size: 18px;
 	/*font-family: 'Didact Gothic';
 	font-weight: lighter;*/
-	color: white;
+	color: black;
 }
 
 #subscribe h3{

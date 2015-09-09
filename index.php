@@ -25,10 +25,10 @@
 		}(document, 'script', 'facebook-jssdk'));</script>
 
 
-	<div id="middlecontent">
+	<div id="indexmidcontent">
 
 		<div id="homelogo">
-			<img src="./images/floatlogov3blue.png" style="width:400px; height: auto; " >
+			<img src="./images/float-transparent.png" style="width:400px; height: auto; " >
 			
 		</div>
 
