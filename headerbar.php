@@ -5,7 +5,7 @@
 	<link href="//fonts.googleapis.com/css?family=Didact+Gothic:400" rel="stylesheet" type="text/css">
 	<link href='http://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
-	<link rel="icon" type="image/png" href="./images/favicon.jpg">
+	<link rel="icon" type="image/png" href="./images/floatfav.png">
 </head>
 
 <link href="./style.css" rel="stylesheet" type="text/css" media="screen" />
