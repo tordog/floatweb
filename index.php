@@ -28,7 +28,7 @@
 	<div id="indexmidcontent">
 
 		<div id="homelogo">
-			<img src="./images/float-transparent.png" style="width:400px; height: auto; " >
+			<img src="./images/floatlogo.png" style="width:400px; height: auto; " >
 			
 		</div>
 
