@@ -29,7 +29,7 @@
 					<!--<a href="http://goo.gl/forms/49k8IzwHgi"><div class="bar1"> SIGN UP HERE > </div> </a>-->
 					Sign-ups are currently closed.
 
-				</p>
+				</div></p>
 
 			<br><br><h2>Mentorship Program </h2>
 			<p>Float is starting a new mentorship program for potential/decided Computer Science majors and anyone else

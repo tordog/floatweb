@@ -34,7 +34,7 @@
 
 		<div id="righthash">
 
-			<img src="./images/hashtag3.png" style="float:right; height: 50px; width: auto;">
+			<img src="./images/gwchashtag.png" style="float:right; height: 50px; width: auto;">
 			<div id="rightsidebar">
 
 

@@ -27,7 +27,7 @@
 
 			<p>Brianna Loo MC'16, Vice President <br><br><img src="./images/brianna.jpg" alt="Brianna" style="float:left; margin: 0 20px 0 0;
 				border:solid; border-color:white; border-width: 10px">
-			Brianna is a junior electrical engineering and computer science major from South Pasadena, CA. 
+			Brianna is a senior electrical engineering and computer science major from South Pasadena, CA. 
 			When she's not running around taking photos for the YDN or staying up into the early hours of the
 			morning putting together tomorrow's paper, she enjoys baking chocolate desserts, traveling to warm places,
 			and dreaming of ways to keep a pet bunny in her room.
@@ -35,7 +35,7 @@
 
 			<p>Jessica Pancer SM'17, Mentorship Chair<br><br><img src="./images/jessica.jpg" alt="Jessica" style="float:left; margin: 0 20px 0 0;
 			border:solid; border-color:white; border-width: 10px">
-			Jessica is a sophomore in Silliman from Boca Raton, FL and a Computer Science major. When she isn't
+			Jessica is a junior in Silliman from Boca Raton, FL and a Computer Science major. When she isn't
 			dancing or watching Gilmore Girls reruns, she's either talking about computers or coding on one. 
 			She's really excited to be teaching the iOS course for Float!
 			</p>
@@ -43,28 +43,39 @@
 			<br>
 			<br>
 			<br>
+			<p>Payal Modi TD'17, Mentorship Chair<br><br><img src="./images/payal.jpg" alt="Payal" style="float:left; margin: 0 20px 0 0;
+			border:solid; border-color:white; border-width: 10px;width: 150px; height=150px; overflow: hidden">
+			Payal is a junior from Fremont, CA majoring in Computer Science and Economics. When she isn't coding, Payal is probably 
+			either singing or dancing. In her free time, Payal loves to watch Friends and Game of Thrones, look at pictures of baby hedgehogs, and eat pizza!
+			</p>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
 			<p>Alicia Vargas-Morawetz JE'17, Events Chair<br><br><img src="./images/alicia.jpg" alt="Alicia" style="float:left; margin: 0 20px 0 0;
 			border:solid; border-color:white; border-width: 10px">	
-			Alicia is a computer science major from New York City and a sophomore in JE. Her favorite activities include 
+			Alicia is a computer science major from New York City and a junior in JE. Her favorite activities include 
 			eating pretzels and nutella while watching The West Wing, playing soccer, and rereading books she loves. 
 			On a free afternoon you can probably find her hanging out in a coffee shop or spending time outdoors with friends. 
 			</p>
 			<br> <br><br><br>
 			<p>Erika Hairston TD '18, Finance Chair <br><br><img src="./images/erika.jpg" alt="Erika" style="float:left; margin: 0 20px 0 0;
 			border:solid; border-color:white; border-width: 10px; width: 150px; height=150px; overflow: hidden">
-			Erika is a freshmen computer science major from Summit, NJ. She is on the Black Student Alliance at Yale board and 
+			Erika is a sophomore computer science major from Summit, NJ. She is on the Black Student Alliance at Yale board and 
 			tutors math for Urban Improvement Corps. In addition to being obsessed with Scandal, Erika loves to bake, play 
 			basketball, and scrapbook. She is extremely excited to be a part of Float Yale and to support more girls in technology. 
 			</p><br> <br><br><br><br>
 			<p>Alison Visher TC '18, Finance Chair <br><br><img src="./images/ali.jpg" alt="Alison" style="float:left; margin: 0 20px 0 0;
 				border:solid; border-color:white; border-width: 10px; width: 150px; height=150px; overflow: hidden">
-				Ali is a freshman in Trumbull College. She is a computer science major. While she loves going to the beach and exploring 
+				Ali is a sophomore in Trumbull College. She is a computer science major. While she loves going to the beach and exploring 
 				the outdoors, most of the time she can be found on the couch eating some chocolate malted crunch ice cream and watching 
 				The Black List.
 			</p><br> <br><br><br><br>
 			<p>Lining Wang BK '17, Publicity Chair <br><br><img src="./images/lining.jpg" alt="Lining" style="float:left; margin: 0 20px 0 0;
 				border:solid; border-color:white; border-width: 10px; width: 150px; height=150px; overflow: hidden">
-			Lining is a sophomore in Berkeley studying Computer Science. She has worked on the Dissent project at Yale, which aims
+			Lining is a junior in Berkeley studying Computer Science. She has worked on the Dissent project at Yale, which aims
 			to preserve anonymity in an increasingly surveilled world using cryptography. She is also interested in applying 
 			technology to activism, especially to feminist, racial, and mental health issues.  In her free time, she likes to 
 			do graphic design, make comics and read books. </p><br><br><br><br><br>

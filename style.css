@@ -70,6 +70,9 @@ a{
 }
 
 #bottomcontent{
+	border-top: solid;
+	border-color: #52a3e3;
+	border-width: 2px;
 	position: absolute;
 	margin-top: 550px;
 	background-color: white;
@@ -144,7 +147,7 @@ a{
 	float: right;
 	min-width: 20%;
 	max-width: 170px;
-	height: 390px;
+	height: 0px;
 	border-width: 1px;
 	border-color: gray;
 	margin-top: 10px;
@@ -164,6 +167,8 @@ a{
 #middlecontent{
 	position: absolute;
 	height: auto;
+	margin-bottom: 60px;
+	padding-bottom: 80px;
 	width: 90%;
 	top: 110px;
 	left: 60px;
@@ -173,7 +178,7 @@ a{
 
 #background {
 	position:absolute;
-	background-image: url('./images/geometric_cool_wallpaper.jpg');
+	background-image: url('./images/torie1.jpg');
 	min-height: 100%;
 	height: auto;
 	width: 100%;

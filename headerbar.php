@@ -14,7 +14,7 @@
 		<ul>
 		  <div id = "headerbar_logo">
 		  <li><a href="./index" style="padding-top: 0px; font-family: 'Source Sans Pro', sans-serif; font-size: 13px">
-		  	<img src = "./images/floatfavicon.png" alt="Float" style="width:50px; height=auto;"/></a>
+		  	<img src = "./images/floatfav.png" alt="Float" style="width:50px; height=auto;"/></a>
 		  </li>
 		  </div>
 		  <div id="headerbar_content">
